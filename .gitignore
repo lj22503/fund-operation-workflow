@@ -1,0 +1,25 @@
+# 基金运营工作流 Skill - Git 忽略文件
+
+# 临时文件
+*.tmp
+*.log
+*.bak
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 敏感信息（如有）
+config.local.json
+*.key
+*.pem
+
+# 构建输出（如有）
+dist/
+build/
