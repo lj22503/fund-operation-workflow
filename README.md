@@ -208,16 +208,42 @@ fund-operation-workflow/
 
 ---
 
+## 📊 使用统计
+
+- ⭐ GitHub Star: [![GitHub stars](https://img.shields.io/github/stars/lj22503/fund-operation-workflow?style=social)](https://github.com/lj22503/fund-operation-workflow/stargazers)
+- 📥 ClawHub 下载：[查看统计](https://clawhub.com/skills/fund-operation-workflow)
+- 👥 活跃用户：[USAGE_TRACKING.md](USAGE_TRACKING.md)
+
+**你也在用？** [登记使用情况](USAGE_TRACKING.md)，领取福利包！
+
+---
+
+## 🎁 福利与追踪
+
+### 领取福利包
+
+**完成使用登记，你将获得：**
+- 📦 完整提示词模板包（6 大节点×子节点，Markdown 可编辑版）
+- 📋 STAR+ 合规前置框架速查卡（PDF 可打印）
+- ✅ 合规检查清单（可打印版）
+- 💬 加入"基金运营 AI 交流群"
+
+**登记方式：**
+1. 微信登记（推荐）：扫描二维码，回复"运营工作流"
+2. 飞书表格：https://my.feishu.cn/base/xxxxxx
+3. GitHub Issue：https://github.com/lj22503/fund-operation-workflow/issues/1
+
+**👉 详情查看：** [USAGE_TRACKING.md](USAGE_TRACKING.md)
+
+---
+
 ## 📞 支持与反馈
 
-**问题反馈：**
-- GitHub: [待创建]
-- 邮箱：[待填写]
-
-**版本信息：**
-- 版本：v1.0.0
-- 创建日期：2026-03-26
-- 最后更新：2026-03-26
+- **问题反馈**：[GitHub Issues](https://github.com/lj22503/fund-operation-workflow/issues)
+- **使用登记**：[USAGE_TRACKING.md](USAGE_TRACKING.md)
+- **微信咨询**：[你的微信号]
+- **作者**：燃冰 + ant
+- **版本**：v2.0.0（2026-03-26 升级）
 
 **贡献者：**
 - 燃冰：需求提出 + 架构设计
